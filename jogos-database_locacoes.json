@@ -1,0 +1,14 @@
+[
+  {
+    "codigo": "LOC-m94xz6n4-254",
+    "jogoId": 12,
+    "titulo": "Half-Life: Alyx",
+    "cliente": {
+      "nome": "Arthur",
+      "documento": "90",
+      "contato": "11"
+    },
+    "dataLocacao": "2025-04-06T01:06:24.736Z",
+    "devolvido": false
+  }
+]
